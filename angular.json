@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app27"
+    }
+  },
+  "defaultProject": "app27",
+  "cli": {
+    "analytics": "8a1a5d5d-23f3-4dc8-b637-0e32d6c5a620"
+  }
 }

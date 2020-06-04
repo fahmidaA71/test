@@ -1,0 +1,28 @@
+.header{
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #1976d2;
+  color: white;
+  font-weight: 600;
+  margin:auto;
+}
+.navbar{
+  background:rgb(153, 139, 139);
+  color:blue;
+  padding:20px;
+  margin:auto;
+}
+
+.footer {
+  /* background:lightblue; */
+  margin-top: 8px;
+  /* display: flex; */
+  /* align-items: center; */
+  line-height: 20px;
+  margin:auto;
+}
